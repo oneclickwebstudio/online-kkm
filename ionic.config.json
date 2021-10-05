@@ -1,0 +1,7 @@
+{
+  "name": "online-kkm",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
